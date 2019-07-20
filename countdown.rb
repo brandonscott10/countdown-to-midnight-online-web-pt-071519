@@ -9,7 +9,3 @@ if countdown == 0
     break
 end
 end
-def countdown
-  x == 0
-puts "HAPPY NEW YEAR!"
-end
